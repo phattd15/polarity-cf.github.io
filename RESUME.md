@@ -15,12 +15,12 @@ layout: page
 
 ### Experience
 ### Mercari
-<span style="font-style: italic; font-size: 14px; color: #999;"> Software Engineer Intern, July 2023 - October 2023 </span>
+<span style="font-size: 16px; color: #999;"> Software Engineer Intern, July 2023 - October 2023 </span>
 
 - Work on the Customer Experience Backend team using Kubernetes, Golang and gRPC.
 
 ### Google
-<span style="font-style: italic; font-size: 14px; color: #999;"> Software Engineer Intern, February 2023 - April 2023 </span>
+<span style="font-size: 16px; color: #999;"> Software Engineer Intern, February 2023 - April 2023 </span>
 
 - Implemented new client-side features with testing for the Google Maps Android using Java, Kotlin,
 reaching 98% code testing coverage.
@@ -32,7 +32,7 @@ external members.
 
 
 ### FPT Japan
-<span style="font-style: italic; font-size: 14px; color: #999;"> Software Engineer (Part Time), June 2022 - January 2023 </span>
+<span style="font-size: 16px; color: #999;"> Software Engineer (Part Time), June 2022 - January 2023 </span>
 
 - Implemented new frontend features for the platform using Vue.js, PrimeVUE.
 - Refactor and create unittests for the frontend using Vitest, contributing to 80% of the entire
@@ -45,7 +45,7 @@ codebase tests with coverage reaching 95% functional and line coverage.
 
 
 ### Codedrills
-<span style="font-style: italic; font-size: 14px; color: #999;"> Software Engineer Intern, December 2021 - April 2022 </span>
+<span style="font-size: 16px; color: #999;"> Software Engineer Intern, December 2021 - April 2022 </span>
 
 - Implemented new frontend features for the platform using Vue.js, Vuetify and gRPC.
 - Developed a Proof-of-Concept realtime collaborative editor that is fully fault tolerance and works on
