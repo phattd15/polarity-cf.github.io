@@ -1,6 +1,6 @@
 ---
-title: "About 2"
-permalink: "/about2/"
+title: "About"
+permalink: "/about/"
 layout: page
 ---
 Hi! I'm a junior at Toyo University, class of 2025, with a passion for software engineering.

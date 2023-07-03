@@ -22,10 +22,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/phattd15"}
-
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/phattd/"}
+  - {title: Codeforces, icon: }
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+  disqus_shortname: ""    # see https://disqus.com/
+  isso_domain: ""         # see https://posativ.org/isso/
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
