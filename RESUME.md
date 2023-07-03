@@ -3,9 +3,6 @@ title: "Resume"
 permalink: "/resume/"
 layout: page
 ---
-
-# Resume
-
 ## Education
 ### Toyo University
 - Bachelor of Engineering

@@ -3,8 +3,6 @@ title: "About 2"
 permalink: "/about2/"
 layout: page
 ---
-
-## About me
 Hi! I'm a junior at Toyo University, class of 2025, with a passion for software engineering.
 
 I've had the opportunity to intern at Google and Codedrills, where I gained hands-on experience in software development and project management. Currently, I am working part-time for FPT Japan Holdings, where I continue to expand my knowledge and skills in software engineering.
