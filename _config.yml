@@ -1,6 +1,6 @@
 title: "phattd"
 author: "Phat Tran"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made with <b style=\"color: #f45;\">Jekyll</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "RESUME.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/phattd15"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/phattd/"}
-  - {title: Codeforces, icon: }
+  - {title: Github, url: "https://github.com/phattd15"}
+  - {title: Linkedin, url: "https://www.linkedin.com/in/phattd/"}
+  - {title: Codeforces, url: "https://codeforces.com/profile/phattd"}
 comments:
   disqus_shortname: ""    # see https://disqus.com/
   isso_domain: ""         # see https://posativ.org/isso/
