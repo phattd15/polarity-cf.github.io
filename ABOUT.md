@@ -1,7 +1,7 @@
 ---
 title: "About"
-permalink: "/about/"
-layout: page
+# permalink: "/about/"
+layout: default
 ---
 Hi! I'm a junior at Toyo University, class of 2025, with a passion for software engineering.
 
