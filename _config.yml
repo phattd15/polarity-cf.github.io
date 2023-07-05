@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "ABOUT.md"}
+  - {file: "index.md"}
   - {file: "RESUME.md"}
+  - {file: "index.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, url: "https://github.com/phattd15"}
