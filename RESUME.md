@@ -1,19 +1,8 @@
 ---
-title: "Resume"
-permalink: "/resume/"
+title: "Experience"
+permalink: "/exp/"
 layout: page
 ---
-
-### Education
-### Toyo University
-- Bachelor of Engineering
-- Department of Information Networking for Innovation and Design
-- April 2021 - March 2025
-- Received the **full ride scholarship** from Toyo University.
-
-------
-
-### Experience
 ### Mercari
 <span style="font-size: 16px; color: #999;"> Software Engineer Intern, July 2023 - October 2023 </span>
 

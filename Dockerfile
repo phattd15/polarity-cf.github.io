@@ -9,15 +9,16 @@ RUN git clone https://github.com/phattd15/polarity-cf.github.io.git .
 
 RUN git checkout master
 
+USER root 
 RUN chmod 777 Gemfile.lock
 
 # Install dependencies
 RUN bundle install
 # Build the Jekyll project
-RUN jekyll build
+# RUN jekyll build
 
 # Set the output directory
-RUN mv _site /var/www/html
+# RUN mv _site /var/www/html
 
 # Expose port (optional)
 # EXPOSE 80
