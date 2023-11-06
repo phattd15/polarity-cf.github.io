@@ -1,4 +1,8 @@
-
+---
+title: "Experience"
+permalink: "/exp/"
+layout: page
+---
 **FPT Japan (Usee.ai platform)**  
 June 2022 - Present  
 Software Engineer (Part-time)  
