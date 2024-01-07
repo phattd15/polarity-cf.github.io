@@ -75,6 +75,20 @@
         "description": "Implemented new frontend features for the platform using Vue.js, Vuetify, and gRPC."
       }
     ],
+    "projects": [
+      {
+        "name": "Smart-ryokou",
+        "description": "A third year project for INIAD Practice III where I worked as a team with 3 other people to deliver an app leveraging chatGPT api for travel planning suggestion.",
+        "url": "https://smart-ryokou.vercel.app/en/",
+        "tech": "Vercel, Next.js, React, FastAPI, Python, AWS, Serverless, Google APIs"
+      },
+      {
+        "name": "Personal Portfolio",
+        "description": "A project for my Web Design II class, my personal website showcasing my past experiences and skills.",
+        "url": "phattd.me",
+        "tech": "React, Github-Pages"
+      }
+    ],
     "skills": [
       {
         "name": "Python",
