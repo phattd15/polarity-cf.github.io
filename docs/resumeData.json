@@ -94,10 +94,10 @@
       },
       {
         "name": "PHP",
-        "level": "30%"
+        "level": "20%"
       },
       {
-        "name": "Spring",
+        "name": "Spring Framework",
         "level": "60%"
       },
       {
@@ -107,6 +107,14 @@
       {
         "name": "Go",
         "level": "80%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "50%"
+      },
+      {
+        "name": "Typescript/Javascript",
+        "level": "60%"
       }
     ]
   }
