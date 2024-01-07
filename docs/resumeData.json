@@ -85,7 +85,7 @@
       {
         "name": "Personal Portfolio",
         "description": "A project for my Web Design II class, my personal website showcasing my past experiences and skills.",
-        "url": "phattd.me",
+        "url": "https://phattd.me/",
         "tech": "React, Github-Pages"
       }
     ],
