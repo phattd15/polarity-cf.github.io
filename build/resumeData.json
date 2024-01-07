@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Phat Tran",
+    "description": "Hi there! I'm a third year Computer Science student at Toyo University.",
+    "image": "profilepic.jpg",
+    "bio": "I've had the opportunity to intern at Google and Codedrills, where I gained hands-on experience in software development and project management. Currently, I am working as an intern at Mercari and part-time for FPT Japan Holdings, where I continue to expand my knowledge and skills in software engineering. My skills are diverse, spanning from frontend to backend development, as well as mobile development. In my free time, I'm passionate about competitive programming and have achieved Codeforces Master and AtCoder Yellow level rankings.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tranduyphat01@gmail.com",
+    "phone": "080-5133-6868",
+    "github": "https://github.com/phattd15",
+    "project": "https://github.com/phattd15",
+    "website": "http://www.phattd.me",
+    "resumedownload": "https://drive.google.com/file/d/1TLK8PmS-SS3g3yIRo_7ZeFQ9DSGf0Gl-/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/phattd15",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/ph_ttd",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/phattd/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/phattd15",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/phattd15",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Toyo University",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "March 2025",
+        "description": "Received the full ride scholarship from Toyo University. CGPA: 4.14/4.3"
+      }
+    ],
+    "work": [
+      {
+        "company": "FPT Japan",
+        "title": "Software Engineer",
+        "years": "June 2022 - Present",
+        "description": "Enhanced our flagship data platform by launching multiple products and features through cross-functional collaborations, spearheading full-stack development and extensive documentation."
+      },
+      {
+        "company": "Mercari",
+        "title": "Software Engineer Intern",
+        "years": "July 2023 - Oct 2023",
+        "description": "Designed and developed microservices using Kubernetes, gRPC, Go, and GCP resources to launch a complex feature, resulting in a 3% increase in the monthly comments and ensuring backward compatibility with the preparation of scripts for emergency rollback."
+      },
+      {
+        "company": "Google",
+        "title": "Software Engineer Intern",
+        "years": "February 2023 - April 2023",
+        "description": "Developed a new feature for the Google Maps Android client, impacting up to 160 million users. This initiative involved Java and Kotlin client-side development, gRPC API design, and comprehensive documentation, resulting in a 7% increase in MAU for the Local Guides program."
+      },
+      {
+        "company": "Codedrills",
+        "title": "Software Engineer Intern",
+        "years": "December 2021 - April 2022",
+        "description": "Implemented new frontend features for the platform using Vue.js, Vuetify, and gRPC."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Vue",
+        "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "30%"
+      },
+      {
+        "name": "C++",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "30%"
+      },
+      {
+        "name": "Spring",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Go",
+        "level": "80%"
+      }
+    ]
+  }
+}
